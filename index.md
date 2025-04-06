@@ -106,7 +106,7 @@ ran correctly.
 <a href="https://github.com/ashleysmith22/ePortfolio/blob/main/assets/img/Databases.png" target="_blank">
 		<img src="assets/img/Databases.png" width="720px" title="Jukebox database screenshot" />
 	</a>
-    <p><em>Figure 1 - Jukenox - CS-310, Collaboration and Team Project </em></p>
+    <p><em>Figure 1 - Jukebox - CS-310, Collaboration and Team Project </em></p>
 
 ### **Repository Link**
 

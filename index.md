@@ -76,11 +76,13 @@ my playlist. I realized when I entered my profile information, it was linking to
 profile number to the other students instead of creating a new profile login number. After I corrected this, 
 my whole program ran correctly.
 
+<div style="text-align: center;">
 <a href="https://github.com/ashleysmith22/ePortfolio/blob/main/assets/img/Art.2.png" target="_blank">
 		<img src="assets/img/Art.2.png" width="720px" title="Ashley Smith playlist screenshot" />
 	</a>
     <p><em>Figure 2 - Jukebox, Ashley Smith playlist - CS-310, Collaboration and Team Project </em></p>
-  
+  </div>
+
 ### **Repository Link**
 
 - [Enhancement Two Repository](https://github.com/ashleysmith22/EnhancementTwo-Algorithms-and-Data-Structure)

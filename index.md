@@ -108,10 +108,12 @@ playlist. I realized when I entered my profile information, it was linking to an
 number to the other students instead of creating a new profile login number. After I corrected this, my whole program 
 ran correctly. 
 
+<div style="text-align: center;">
 <a href="https://github.com/ashleysmith22/ePortfolio/blob/main/assets/img/Databases.png" target="_blank">
 		<img src="assets/img/Databases.png" width="720px" title="Jukebox database screenshot" />
 	</a>
     <p><em>Figure 3 - Jukebox - CS-310, Collaboration and Team Project </em></p>
+</div>
 
 ### **Repository Link**
 

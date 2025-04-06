@@ -75,6 +75,11 @@ I first added my own student profile to link to my own playlist, I was unable to
 my playlist. I realized when I entered my profile information, it was linking to another student. I had set my 
 profile number to the other students instead of creating a new profile login number. After I corrected this, 
 my whole program ran correctly.
+
+<a href="https://github.com/ashleysmith22/ePortfolio/blob/main/assets/img/Art.2.png" target="_blank">
+		<img src="assets/img/Art.2.png" width="720px" title="Ashley Smith playlist screenshot" />
+	</a>
+    <p><em>Figure 2 - Jukebox, Ashley Smith playlist - CS-310, Collaboration and Team Project </em></p>
   
 ### **Repository Link**
 
@@ -106,7 +111,7 @@ ran correctly.
 <a href="https://github.com/ashleysmith22/ePortfolio/blob/main/assets/img/Databases.png" target="_blank">
 		<img src="assets/img/Databases.png" width="720px" title="Jukebox database screenshot" />
 	</a>
-    <p><em>Figure 1 - Jukebox - CS-310, Collaboration and Team Project </em></p>
+    <p><em>Figure 3 - Jukebox - CS-310, Collaboration and Team Project </em></p>
 
 ### **Repository Link**
 

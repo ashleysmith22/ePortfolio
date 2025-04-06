@@ -4,9 +4,9 @@
 
 ## **Introduction**
     Hello my name is Ashley Smith, and I started attending SNHU's 
-computer science seven years ago. This gitHub pages account is meant 
-to provide an electronic portfolio from which I finishmy final 
-project for CS-499 and compelete my Bachelor's degree in computer science.  
+    computer science seven years ago. This gitHub pages account is meant 
+    to provide an electronic portfolio from which I finishmy final 
+    project for CS-499 and compelete my Bachelor's degree in computer science.  
 
 
 ## **Education Review**

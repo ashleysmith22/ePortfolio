@@ -200,7 +200,7 @@ add text
 # **Professional Self-Assessment**
 
 <p style="text-indent: 55px;">
-Reflecting on my experience in the Computer Science program and in completing my capstone project, I am grateful for all the learning, skills, and growth I have accomplished. Not only did the program give me a strong foundation in technical subjects like algorithms, data structures, and software development, I have also developed meaningful experience in solving complex problems, critical thinking, and communicating solutions to users and clients. My capstone project, in particular, allowed me to employ the skills 
+Reflecting on my experience in the Computer Science program and in completing my capstone project, I am grateful for all the learning, skills, and growth I have accomplished. Not only did the program give me a strong foundation in technical subjects like algorithms, data structures, and software development, I have also developed meaningful experience in solving complex problems, critical thinking, and communicating solutions to users and clients. My capstone project, in particular, allowed me to employ the skills in my own classroom.
 </p>
 
 <p style="text-indent: 55px;">

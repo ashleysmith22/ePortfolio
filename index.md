@@ -12,8 +12,8 @@ project for CS-499 and compelete my Bachelor's degree in computer science.
 ## **Education Review**
 Compeleting my coursework for this class has led me to appreciate the importance of reviewing 
 and polishing one's work in a professional manner.  This review process can often include 
-removing and rewriting unnecessarily complicated code, adding comments, and increasing a program's     
-capabilities.  During the course of this class, I have enhanced my artifacts through the addition
+removing and rewriting unnecessarily complicated code, adding comments, and increasing a program's
+capabilities. During the course of this class, I have enhanced my artifacts through the addition
 of new classes for my calculator application and my jukebox application.
    
 Working in a team environment has helped me appreciate the value of having a fresh perspective 

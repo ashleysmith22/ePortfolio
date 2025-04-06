@@ -8,44 +8,48 @@ computer science seven years ago. This gitHub pages account is meant
 to provide an electronic portfolio from which I finishmy final 
 project for CS-499 and compelete my Bachelor's degree in computer science.  
 
-
-## **Education Review**
-Compeleting my coursework for this class has led me to appreciate the importance of reviewing 
-and polishing one's work in a professional manner.  This review process can often include 
-removing and rewriting unnecessarily complicated code, adding comments, and increasing a program's
-capabilities. During the course of this class, I have enhanced my artifacts through the addition
-of new classes for my calculator application and my jukebox application.
-   
-Working in a team environment has helped me appreciate the value of having a fresh perspective 
-on my work. Sometimes, I become too immersed in a project and lose the ability to assess it 
-objectively. Having another set of eyes review it often uncovers overlooked mistakes and 
-offers valuable suggestions for improvement. 
-
 ## **Artifacts**
 The artifacts presented for the portfolio are introductions to my work for software design and 
 engineering, algorithms and data structures, and databases.  Through the course of the class, I 
 have improved my artifacts software, expanded their complexity, and added comments to make their code
 easier to read.
     
-# **Code Review**
+## **Informal Code Review**
+### Overview:
 
-[Code Review Youtube Link](https://youtu.be/m5RE7gRhwb4)
+<p style="text-indent: 55px;">
+My code review video contains all three artifacts. I analyze each artifact separately for errors, vulnerabilities, and weaknesses. I narrate my plans for improvements/enhancements during the walkthrough of each artifact. In software design and engineering, I use Visual Studio to showcase the C++ code of my original artifact to explain my planned enhancement. In algorithms and data structures, and databases, I showcase my original code in PyCharm using Python to explain my planned enhancement; these cover both artifact two and three. Throughout my videos, I provide professional-quality oral, written, and visual communication techniques to effectively explain a code review through collaborative environments that are coherent, technically sound, and appropriately adapted to specific audiences. The basis of my code review focuses on three critical elements:
+</p>
+
+  - Existing functionality: A detailed walk-through of the existing code focused on the features and function of the current code.
+  - Code Analysis: Target areas of improvement in structure, logic, efficiency, functionality, security, testing, commenting, and documenting.
+  - Enhancements: A walk-through of planned enhancements that address issues raised in the code analysis.
+
+<iframe align="center" width="900" height="480" src="https://youtu.be/m5RE7gRhwb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # **Enhancement One: Software Design and Engineering**
+### Introduction:
 
-The artifact for the software design and engineering category is my final project from 
-CS-310 that I completed in March 2025.  It is a calculator application that is used to 
-help complete some basic math problems.  
+<p style="text-indent: 55px;">
+The artifact for the software design and engineering category is my final project from CS-310 that I completed in March 2025.  It is a calculator application that is used to help complete some basic math problems.  
+</p>
 
-This item was selected because it is a good example of testing data. When bulding the project, I added to multiplication, 
-division and power classes. I was able to test each code with jUnit to make sure they werre working properly before submission. 
-The artifact is improved by adding new the new classes to function easier. 
- 
-When enhancing this project I learned to stay within the bounds of the project and not to become too 
-ambitions.  The areas of my project that I focused on seemed like they were common sense improvements
-and extensions.  It also helped that I hadn’t looked at my project for some months and could look at
-it with fresh eyes. The only challenges that I faced were attempting to get tests to function properly
-and test the correct data.  
+<p style="text-indent: 55px;">
+This item was selected because it is a good example of testing data. When bulding the project, I added to multiplication, division and power classes. I was able to test each code with jUnit to make sure they werre working properly before submission. The artifact is improved by adding new the new classes to function easier. 
+ </p>
+
+<p style="text-indent: 55px;">
+add text
+</p>  
+
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/ashleysmith22/ePortfolio/blob/main/3-2%20Milestone%20Two_%20Enhancement%20One_%20Software%20Design%20and%20Engineering.pdf)
+
+<div style="text-align: center;">
+<a href="https://github.com/ashleysmith22/ePortfolio/blob/main/assets/img/calculator.png" target="_blank">
+		<img src="assets/img/calculator.png" width="720px" title="Ashley Smith calculator screenshot" />
+	</a>
+    <p><em>Figure 1 - Calculator, Ashley Smith playlist - CS-310, Collaboration and Team Project </em></p>
+  </div>
 
 ### **Repository Link**
 

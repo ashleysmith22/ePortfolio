@@ -11,11 +11,14 @@ project for CS-499 and compelete my Bachelor's degree in computer science.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Artifacts**
+
+<p style="text-indent: 55px;">
 The artifacts presented for the portfolio are introductions to my work for software design and 
 engineering, algorithms and data structures, and databases.  Through the course of the class, I 
 have improved my artifacts software, expanded their complexity, and added comments to make their code
 easier to read.
-    
+</p>
+
 ## **Informal Code Review**
 
 [Code Review Youtube Link](https://youtu.be/m5RE7gRhwb4)

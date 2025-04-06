@@ -11,21 +11,21 @@
 
 ## **Education Review**
     Compeleting my coursework for this class has led me to appreciate the importance of reviewing 
-and polishing one's work in a professional manner.  This review process can often include 
-removing and rewriting unnecessarily complicated code, adding comments, and increasing a program's     
-capabilities.  During the course of this class, I have enhanced my artifacts through the addition
-of new classes for my calculator application and my jukebox application.
+    and polishing one's work in a professional manner.  This review process can often include 
+    removing and rewriting unnecessarily complicated code, adding comments, and increasing a program's     
+    capabilities.  During the course of this class, I have enhanced my artifacts through the addition
+    of new classes for my calculator application and my jukebox application.
    
     Working in a team environment has helped me appreciate the value of having a fresh perspective 
-on my work. Sometimes, I become too immersed in a project and lose the ability to assess it 
-objectively. Having another set of eyes review it often uncovers overlooked mistakes and 
-offers valuable suggestions for improvement. 
+    on my work. Sometimes, I become too immersed in a project and lose the ability to assess it 
+    objectively. Having another set of eyes review it often uncovers overlooked mistakes and 
+    offers valuable suggestions for improvement. 
 
 ## **Artifacts**
     The artifacts presented for the portfolio are introductions to my work for software design and 
-engineering, algorithms and data structures, and databases.  Through the course of the class, I 
-have improved my artifacts software, expanded their complexity, and added comments to make their code
-easier to read.
+    engineering, algorithms and data structures, and databases.  Through the course of the class, I 
+    have improved my artifacts software, expanded their complexity, and added comments to make their code
+    easier to read.
     
 # **Code Review**
 
@@ -33,11 +33,11 @@ easier to read.
 
 # **Enhancement One: Software Design and Engineering**
 
-   The artifact for the software design and engineering category is my final project from 
+    The artifact for the software design and engineering category is my final project from 
 CS-310 that I completed in March 2025.  It is a calculator application that is used to 
 help complete some basic math problems.  
 
-   This item was selected because it is a good example of testing data. When bulding the project, I added to multiplication, 
+    This item was selected because it is a good example of testing data. When bulding the project, I added to multiplication, 
 division and power classes. I was able to test each code with jUnit to make sure they werre working properly before submission. 
 The artifact is improved by adding new the new classes to function easier. 
  

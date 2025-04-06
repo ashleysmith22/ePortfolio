@@ -42,7 +42,7 @@ This item was selected because it is a good example of testing data. When buldin
 add text
 </p>  
 
-**Click here to view the full narrative** \| [(View Narrative)](https://github.com/ashleysmith22/ePortfolio/blob/main/3-2%20Milestone%20Two_%20Enhancement%20One_%20Software%20Design%20and%20Engineering.pdf)
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/ashleysmith22/ePortfolio/blob/main/Narratives/Milestones/3-2%20Milestone%20Two_%20Enhancement%20One_%20Software%20Design%20and%20Engineering.pdf)
 
 <div style="text-align: center;">
 <a href="https://github.com/ashleysmith22/ePortfolio/blob/main/assets/img/calculator.png" target="_blank">

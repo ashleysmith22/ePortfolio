@@ -80,6 +80,8 @@ my playlist. I realized when I entered my profile information, it was linking to
 profile number to the other students instead of creating a new profile login number. After I corrected this, 
 my whole program ran correctly.
 
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/ashleysmith22/ePortfolio/blob/main/Narratives/Milestones/4-2%20Milestone%20Three_%20Enhancement%20Two_%20Algorithms%20and%20Data%20Structure.pdf)
+
 <div style="text-align: center;">
 <a href="https://github.com/ashleysmith22/ePortfolio/blob/main/assets/img/Art.2.png" target="_blank">
 		<img src="assets/img/Art.2.png" width="720px" title="Ashley Smith playlist screenshot" />
@@ -113,6 +115,8 @@ I first added my own student profile to link to my own playlist, I was unable to
 playlist. I realized when I entered my profile information, it was linking to another student. I had set my profile 
 number to the other students instead of creating a new profile login number. After I corrected this, my whole program 
 ran correctly. 
+
+**Click here to view the full narrative** \| [(View Narrative)](https://github.com/ashleysmith22/ePortfolio/blob/main/Narratives/Milestones/5-2%20Milestone%20Four_%20Enhancement%20Three_%20Databases.pdf)
 
 <div style="text-align: center;">
 <a href="https://github.com/ashleysmith22/ePortfolio/blob/main/assets/img/Databases.png" target="_blank">

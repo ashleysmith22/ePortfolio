@@ -200,15 +200,15 @@ add text
 # **Professional Self-Assessment**
 
 <p style="text-indent: 55px;">
-add text
+Reflecting on my experience in the Computer Science program and in completing my capstone project, I am grateful for all the learning, skills, and growth I have accomplished. Not only did the program give me a strong foundation in technical subjects like algorithms, data structures, and software development, I have also developed meaningful experience in solving complex problems, critical thinking, and communicating solutions to users and clients. My capstone project, in particular, allowed me to employ the skills 
 </p>
 
 <p style="text-indent: 55px;">
-add text
+I have developed from the program to a real-world project where I designed and implemented a software solution to a defined problem. Completing the capstone progressed my technical capabilities but it was also a great opportunity to grow my project management, teamwork, and problem-solving skills.Through my studies, I have cultivated competencies in several programming languages including Python, Java, and C, and I have utilized many different tools and technologies including version control, cloud computing environments, and databases.
 </p>
 
 <p style="text-indent: 55px;">
-add text
+Most importantly, I have developed a deeper understanding of the best practices in designing and building maintainable and scalable systems that satisfy user use cases and business requirements. As I am still fairly entering new into teaching, I plan to incorporate coding into a robotics club and help teach students some basic knowledge of coding that is vastly growing in the world today. 
 </p>
 
 ### **GitHub Pages Link**

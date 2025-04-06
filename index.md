@@ -1,5 +1,3 @@
-# **CS-499 ePortfolio**
-
 ## **Introduction**
 
 <p style="text-indent: 55px;">
@@ -137,4 +135,4 @@ Most importantly, I have developed a deeper understanding of the best practices 
 
 ### **GitHub Pages Link**
 
-- [CS-499 ePortfolio](https://ashleysmith22.github.io/)
+- [CS-499 ePortfolio](https://github.com/ashleysmith22/ePortfolio)

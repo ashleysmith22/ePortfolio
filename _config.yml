@@ -1,3 +1,5 @@
-theme: jekyll-theme-architect
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-hacker
 title: Welcome to Ashley Smith's homepage!
 description: Feel free to bookmark this to keep an eye on my project updates.
